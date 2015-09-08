@@ -18,5 +18,13 @@
     "lodash": "^3.10.1",
     "minimist": "^1.2.0",
     "tmp": "0.0.27"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lostinplace/jsonltocsv.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lostinplace/jsonltocsv/issues"
+  },
+  "homepage": "https://github.com/lostinplace/jsonltocsv#readme"
 }

@@ -3,7 +3,7 @@
 % September 8, 2015
 
 # NAME
-jsonltocsv \- sample lines randomly from input
+jsonltocsv \- stream a json file into csv
 
 # SYNOPSIS
 **jsonltocsv** [_file_]
@@ -14,4 +14,4 @@ Jsonltocsv is a program that converts a stream of json lines into a csv-formatte
 # OPTIONS
 
 _file_
-:     a file to read, if file is absent, input is stdin
+:           a file to read, if file is absent, input is stdin
